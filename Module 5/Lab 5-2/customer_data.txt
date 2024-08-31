@@ -1,0 +1,13 @@
+Cream 12 1.39
+Sorbet 17 5.40
+Cookies 40 3.89
+Vinegar 5 3.29
+Beef 4 10.79
+Avocado 40 0.79
+Celery 30 1.98
+Broccoli 34 1.89
+Spinach 20 1.49
+Garlic	27 0.99
+Mushrooms 5 3.78
+Potatoes 11 5.99
+Carrots 14 1.99
